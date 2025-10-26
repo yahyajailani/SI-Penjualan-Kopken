@@ -1,12 +1,10 @@
 # SI-Penjualan-Kopken
 
-Anggota Kelompok 6
-<br>
-Yahya Jailani – 2509116085
-<br>
-Muhammad Dzikri Andhika – 2509116103
-<br>
-Diara Gladys Ignacia F. S. – 2509116093
-<br>
-<br>
-<h2> Flowchart Menu Utama </h2>
+# Anggota Kelompok 6
+# Yahya Jailani – 2509116085
+# Muhammad Dzikri Andhika – 2509116103
+# Diara Gladys Ignacia F. S. – 2509116093
+
+
+# Flowchart Menu Utama
+![Uploading Project_akhir_yang_kesekian_kalinya[1]-Menu Utama.jpg…]()
